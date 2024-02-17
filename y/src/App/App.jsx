@@ -1,9 +1,11 @@
-
+import Header from '../Header/Header.jsx'
 
 function App() {
 
   return (
-    <h1></h1>
+    <h1>
+      <Header/>
+    </h1>
   )
 }
 

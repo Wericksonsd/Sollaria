@@ -1,0 +1,34 @@
+.container{
+    width: 100%;
+    height: 140px;
+    background-color: rgb(112, 16, 16);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.vidaContainer{
+    height: 20px;
+    width: 200px;
+    border: 3px solid black;
+    display: flex;
+    align-items: stretch;
+    justify-content: flex-start;
+}
+
+.vida{
+    height: 100%;
+    width: 50%;
+    background-color: aquamarine;
+}
+
+.entradaDano{
+    width: 200px;
+}
+
+.botoes{
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+}
