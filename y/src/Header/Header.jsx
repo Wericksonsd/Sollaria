@@ -25,10 +25,10 @@ function Header () {
                 <Text fontSize='6rem'>TITULO</Text>
             </Flex>
             <Grid h='50px' w='100%' templateColumns='repeat(4, 1fr)'>
-                <Box as='button' sx={boxStatic} _hover={boxHover}>Personagens</Box>
-                <Box as='button' sx={boxStatic} _hover={boxHover}>Alo</Box>
-                <Box as='button' sx={boxStatic} _hover={boxHover}>Alo</Box>
-                <Box as='button' sx={boxStatic} _hover={boxHover}>Alo</Box>
+                <Box as='button' sx={boxStatic} _hover={boxHover}>História</Box>
+                <Box as='button' sx={boxStatic} _hover={boxHover}>Produtos</Box>
+                <Box as='button' sx={boxStatic} _hover={boxHover}>Franquias</Box>
+                <Box as='button' sx={boxStatic} _hover={boxHover}>Seja um franqueado</Box>
             </Grid>
         </Flex>
     )

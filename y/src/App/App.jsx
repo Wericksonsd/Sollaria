@@ -1,5 +1,5 @@
 import Header from '../Header/Header.jsx'
-import Main from '../Main/Main.jsx'
+import Main from '../Main/Historia.jsx'
 import { Box } from '@chakra-ui/react'
 
 import { ChakraProvider } from '@chakra-ui/react'
